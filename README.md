@@ -1,0 +1,1 @@
+ The Bash Bunny Emulator is a tool designed to simulate the behavior of the Hak5 Bash Bunny. It allows security professionals to test payloads and scripts in a virtual environment without needing the actual hardware. This emulator supports various attack modes such as HID attacks, network attacks, and payload execution.
